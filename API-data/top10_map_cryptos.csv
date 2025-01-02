@@ -1,0 +1,11 @@
+id;rank;name;symbol;slug;is_active;status;first_historical_data;last_historical_data;platform;platform.id;platform.name;platform.symbol;platform.slug;platform.token_address
+1;1;Bitcoin;BTC;bitcoin;1;1;2010-07-13T00:05:00.000Z;2025-01-02T21:25:00.000Z;;;;;;
+1027;2;Ethereum;ETH;ethereum;1;1;2015-08-07T14:45:00.000Z;2025-01-02T21:25:00.000Z;;;;;;
+825;3;Tether USDt;USDT;tether;1;1;2015-02-25T13:30:00.000Z;2025-01-02T21:25:00.000Z;;1.0;Ethereum;ETH;ethereum;0xdac17f958d2ee523a2206206994597c13d831ec7
+52;4;XRP;XRP;xrp;1;1;2013-08-04T18:50:00.000Z;2025-01-02T21:25:00.000Z;;;;;;
+1839;5;BNB;BNB;bnb;1;1;2017-07-25T04:30:00.000Z;2025-01-02T21:25:00.000Z;;;;;;
+5426;6;Solana;SOL;solana;1;1;2020-04-10T04:55:00.000Z;2025-01-02T21:25:00.000Z;;;;;;
+74;7;Dogecoin;DOGE;dogecoin;1;1;2013-12-15T14:40:00.000Z;2025-01-02T21:25:00.000Z;;;;;;
+3408;8;USDC;USDC;usd-coin;1;1;2018-10-08T18:45:00.000Z;2025-01-02T21:25:00.000Z;;1.0;Ethereum;ETH;ethereum;0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
+2010;9;Cardano;ADA;cardano;1;1;2017-10-01T20:30:00.000Z;2025-01-02T21:25:00.000Z;;;;;;
+1958;10;TRON;TRX;tron;1;1;2017-09-13T01:15:00.000Z;2025-01-02T21:25:00.000Z;;;;;;
